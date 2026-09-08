@@ -1,8 +1,8 @@
-* App Name:
+* App Name: FuelFit?
 
-* Vision:
+* Vision: Eliminate the guesswork from getting fit, so every workout and every meal moves you closer to who you want to become.
 
-* Mission:
+* Mission: Make personalized fitness and nutrition guidance accessible to everyone by turning individual goals into clear, actionable workout and meal plans.
 
 * Your core user: Beginners
 
