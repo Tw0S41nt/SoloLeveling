@@ -1,4 +1,4 @@
-* App Name: FuelFit?
+* App Name: SoloFit
 
 * Vision: Eliminate the guesswork from getting fit, so every workout and every meal moves you closer to who you want to become.
 
@@ -24,8 +24,8 @@ Create
 * What: The user builds their weekly workout schedule by selecting workouts from the search/library and assigning them to their 4-day calendar.
 * When: At the start of a new week or during initial setup.
 * Why: Enforces a strict 4-day limit to prevent beginners from overtraining or burning out.
-* Where: 
-* How: 
+* Where: Inside of the "Create Your Workout" tab.
+* How: Click the create your workout button and follow the search procedure to continue by adding workouts.
 
 Edit
 * What: The user adjusts scheduled workout days or swaps out specific exercises.
