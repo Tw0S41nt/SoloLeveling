@@ -40,6 +40,3 @@ Dashboard / Homepage
 * Why: Gives instant clarity, keeps them accountable, and ensures they stay on track toward their goal.
 * Where: On the Main Landing Screen (the default tab when opening the app).
 * How: By opening the app or tapping the "Home" icon on the bottom navigation bar.
-
-UserFlow Link
-https://www.figma.com/design/bsoy72qr9kZFJjPL51QDML/User-Flow?node-id=0-1&t=LmGXVPntUO56H2wA-1
