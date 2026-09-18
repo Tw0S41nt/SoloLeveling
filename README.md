@@ -61,3 +61,7 @@ Wireframe:
 
 ### View-single-Template
 <img src="View-Single-Template.png">
+
+Brand Guide:
+
+<img src="Brand-Guide.png">
