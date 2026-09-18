@@ -60,4 +60,4 @@ Wireframe:
 <img src="View-Single-Exercise.png">
 
 ### View-single-Template
-<img src="View-Single-Template.png.png">
+<img src="View-Single-Template.png">
