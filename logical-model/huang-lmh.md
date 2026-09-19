@@ -1,9 +1,9 @@
 # Descriptions
-- Purpose of a logical model: `To provide a visual representation of a database before building one`
-- Primary Key: `To provide a way to uniquely identify each record(row) in a given table`
-- Foreign Key: ``
-- Relationships between entities: ``
-- Normalization: ``
+- Purpose of a logical model: `to provide a visual representation of a database before building one`
+- Primary Key: `is an attribute used to uniquely identify each record(row) in a given table`
+- Foreign Key: `is an attribute in a table that references the primary key of a different table (showing a connection)`
+- Relationships between entities: `describes how entities are connected`
+- Normalization: `a process that reduces data redundancy by breaking large tables into smaller ones (that are related)`
 
 # Conceptual Model
 [Group conceptual model](https://lucid.app/lucidchart/ddb6b0df-f50c-4f18-a837-20662dc80403/edit?invitationId=inv_1ecdf2b8-76d8-435b-a615-d1acec13cad0&page=0_0#)
