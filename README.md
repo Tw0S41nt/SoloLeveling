@@ -43,6 +43,7 @@ Dashboard / Homepage
 
 
 User Flow:
+<img width="1764" height="1055" alt="image" src="https://github.com/user-attachments/assets/7651018a-c4e3-414e-84c8-fb92c9559f2d" />
 
 
 Wireframe:
